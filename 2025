@@ -2439,16 +2439,6 @@
                     "name": "Wake Forest",
                     "state": "North Carolina",
                     "abbreviation": "WAKE",
-                    "rival": [
-                        "DUKE",
-                        "UNC",
-                        "APP"
-                    ],
-                    "rivalryNames": {
-                        "WAKE": "Tobacco Bowl"
-                    },
-                    "prestige": "65",
-                    "hexColor": "#9E7E38",
                     "headCoach": {
                         "contractLength": "6",
                         "startYear": "2022",
@@ -2463,7 +2453,17 @@
                         "baselinePrestige": "65",
                         "name": "David Clawson",
                         "contractYear": "0"
-                    }
+                    },
+                    "rival": [
+                        "DUKE",
+                        "UNC",
+                        "APP"
+                    ],
+                    "rivalryNames": {
+                        "WAKE": "Tobacco Bowl"
+                    },
+                    "prestige": "65",
+                    "hexColor": "#9E7E38"
                 }
             ]
         },
@@ -3701,7 +3701,6 @@
                     "prestige": "68",
                     "hexColor": "#003262"
                 },
-
                 {
                     "name": "Stanford",
                     "state": "California",

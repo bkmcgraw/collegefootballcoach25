@@ -1,26 +1,26 @@
 {
     "promotionRoutes": {
-        "AAC": "SEC-E",
-        "SUN": "SEC-W",
-        "ACC": "B1G-E",
-        "MWC": "B1G-W",
-        "CUSA": "XII-E",
-        "PAC-10": "XII-W"
+        "AAC": "SECE",
+        "SUN": "SECW",
+        "ACC": "B1GE",
+        "MWC": "B1GW",
+        "CUSA": "XIIE",
+        "PAC-10": "XIIW"
     },
     "baseYear": 2024,
     "relegationRoutes": {
-        "SEC-E": "AAC",
-        "SEC-W": "SUN",
-        "B1G-E": "ACC",
-        "B1G-W": "MWC",
-        "XXI-E": "CUSA",
-        "XXI-W": "PAC-10"
+        "SECE": "AAC",
+        "SECW": "SUN",
+        "B1GE": "ACC",
+        "B1GW": "MWC",
+        "XXIE": "CUSA",
+        "XXIW": "PAC10"
     },
     "conferences": [
         {
             "confFullName": "SEC East",
             "confPrestige": "95",
-            "confName": "SEC-E",
+            "confName": "SECE",
             "confTeams": [
                 {
                     "name": "Georgia",
@@ -578,7 +578,7 @@
         {
             "confFullName": "SEC West",
             "confPrestige": "95",
-            "confName": "SEC-W",
+            "confName": "SECW",
             "confTeams": [
                 {
                     "name": "Alabama",
@@ -1169,7 +1169,7 @@
         {
             "confFullName": "BIG-10 East",
             "confPrestige": "95",
-            "confName": "B1G-E",
+            "confName": "B1GE",
             "confTeams": [
                 {
                     "name": "Indiana",
@@ -1712,7 +1712,7 @@
         {
             "confFullName": "BIG-10 West",
             "confPrestige": "90",
-            "confName": "B1G-W",
+            "confName": "B1GW",
             "confTeams": [
                 {
                     "name": "Oregon",
@@ -2470,7 +2470,7 @@
         {
             "confFullName": "Big XII East",
             "confPrestige": "85",
-            "confName": "XII-E",
+            "confName": "XIIE",
             "confTeams": [
                 {
                     "name": "Duke",
@@ -3015,7 +3015,7 @@
         {
             "confFullName": "Big XII West",
             "confPrestige": "85",
-            "confName": "XII-W",
+            "confName": "XIIW",
             "confTeams": [
                 {
                     "name": "Baylor",
@@ -3548,7 +3548,7 @@
         {
             "confFullName": "PAC-10",
             "confPrestige": "70",
-            "confName": "PAC-10",
+            "confName": "PAC10",
             "confTeams": [
                 {
                     "name": "SMU",

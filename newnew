@@ -19,7 +19,7 @@
     "conferences": [
         {
             "confFullName": "SEC East",
-            "confPrestige": "95",
+            "confPrestige": "92",
             "confName": "SECE",
             "confTeams": [
                 {
@@ -366,7 +366,7 @@
                     "rivalryNames": {
                         "LOU": "The Governors Cup"
                     },
-                    "prestige": "70",
+                    "prestige": "74",
                     "hexColor": "#0033A0"
                 },
                 {
@@ -581,119 +581,122 @@
             "confName": "SECW",
             "confTeams": [
                 {
-                    "name": "Indiana",
-                    "state": "Indiana",
-                    "abbreviation": "IND",
-                    "offCoordinator": {
-                        "contractLength": "3",
-                        "startYear": "2022",
-                        "age": "55",
-                        "cumulativePrestige": "0",
-                        "homeState": "Missouri",
-                        "ratPot": "53",
-                        "hometown": "Risco",
-                        "ratTalent": "84",
-                        "baselinePrestige": "75",
-                        "coachingAbility": "67",
-                        "name": "Walt Bell",
-                        "contractYear": "0"
-                    },
-                    "defCoordinator": {
-                        "contractLength": "3",
-                        "startYear": "2022",
-                        "age": "45",
-                        "cumulativePrestige": "0",
-                        "homeState": "Virginia",
-                        "ratPot": "72",
-                        "hometown": "Purcellville",
-                        "ratTalent": "82",
-                        "baselinePrestige": "75",
-                        "coachingAbility": "68",
-                        "name": "Chad Wilt",
-                        "contractYear": "0"
-                    },
-                    "headCoach": {
-                        "contractLength": "6",
-                        "startYear": "2022",
-                        "age": "59",
-                        "ratOff": "67",
-                        "cumulativePrestige": "0",
-                        "ratDef": "65",
-                        "homeState": "Arkansas",
-                        "ratPot": "83",
-                        "hometown": "Bentonville",
-                        "ratTalent": "89",
-                        "baselinePrestige": "75",
-                        "name": "Curt Cignetti",
-                        "contractYear": "0"
-                    },
-                    "rival": [
-                        "PUR",
-                        "MSU"
-                    ],
-                    "rivalryNames": {
-                        "PUR": "The Bucket Game"
-                    },
-                    "prestige": "51",
-                    "hexColor": "#990000"
-                },
-                {
-                    "name": "Michigan",
-                    "state": "Michigan",
-                    "abbreviation": "MICH",
+                    "name": "Alabama Crimson Tide",
+                    "state": "Alabama",
+                    "abbreviation": "BAMA",
                     "offCoordinator": {
                         "contractLength": "3",
                         "startYear": "2022",
                         "age": "46",
                         "cumulativePrestige": "0",
-                        "homeState": "Massachusetts",
-                        "ratPot": "52",
-                        "hometown": "Methuen",
-                        "ratTalent": "52",
-                        "baselinePrestige": "70",
-                        "coachingAbility": "69",
-                        "name": "Sherrone Moore",
+                        "homeState": "Louisiana",
+                        "ratPot": "88",
+                        "hometown": "Scott",
+                        "ratTalent": "67",
+                        "baselinePrestige": "84",
+                        "coachingAbility": "75",
+                        "name": "Tommy Rees",
                         "contractYear": "0"
                     },
                     "defCoordinator": {
                         "contractLength": "3",
-                        "startYear": "2022",
-                        "age": "37",
+                        "startYear": "2024",
+                        "age": "36",
                         "cumulativePrestige": "0",
-                        "homeState": "Wyoming",
-                        "ratPot": "67",
-                        "hometown": "Cheyenne",
-                        "ratTalent": "78",
-                        "baselinePrestige": "70",
-                        "coachingAbility": "82",
-                        "name": "Jesse Minter",
+                        "homeState": "Nevada",
+                        "ratPot": "88",
+                        "hometown": "Nixon",
+                        "ratTalent": "69",
+                        "baselinePrestige": "95",
+                        "coachingAbility": "67",
+                        "name": "Kane Wommack",
                         "contractYear": "0"
                     },
                     "headCoach": {
                         "contractLength": "6",
                         "startYear": "2022",
-                        "age": "43",
-                        "ratOff": "73",
+                        "age": "49",
+                        "ratOff": "90",
+                        "cumulativePrestige": "20",
+                        "ratDef": "80",
+                        "homeState": "Nevada",
+                        "ratPot": "86",
+                        "hometown": "Mesquite",
+                        "ratTalent": "91",
+                        "baselinePrestige": "95",
+                        "name": "Kalen DeBoer",
+                        "contractYear": "1"
+                    },
+                    "rival": [
+                        "AUB",
+                        "TENN"
+                    ],
+                    "rivalryNames": {
+                        "AUB": "Iron Bowl",
+                        "TENN": "Third Saturday in October"
+                    },
+                    "prestige": "92",
+                    "hexColor": "#9E1B32"
+                },
+                {
+                    "name": "Arkansas Razorbacks",
+                    "state": "Arkansas",
+                    "abbreviation": "ARK",
+                    "offCoordinator": {
+                        "contractLength": "3",
+                        "startYear": "2022",
+                        "age": "52",
                         "cumulativePrestige": "0",
-                        "ratDef": "69",
-                        "homeState": "Ohio",
-                        "ratPot": "82",
-                        "hometown": "Toledo",
-                        "ratTalent": "49",
-                        "baselinePrestige": "90",
-                        "name": "Jim Harbaugh",
+                        "homeState": "New Mexico",
+                        "ratPot": "87",
+                        "hometown": "Kirtland",
+                        "ratTalent": "68",
+                        "baselinePrestige": "60",
+                        "coachingAbility": "66",
+                        "name": "Bobby Petrino",
+                        "contractYear": "0"
+                    },
+                    "defCoordinator": {
+                        "contractLength": "3",
+                        "startYear": "2022",
+                        "age": "36",
+                        "cumulativePrestige": "0",
+                        "homeState": "Missouri",
+                        "ratPot": "83",
+                        "hometown": "Neelyville",
+                        "ratTalent": "71",
+                        "baselinePrestige": "60",
+                        "coachingAbility": "70",
+                        "name": "Barry Odom",
+                        "contractYear": "0"
+                    },
+                    "headCoach": {
+                        "contractLength": "6",
+                        "startYear": "2022",
+                        "age": "57",
+                        "ratOff": "61",
+                        "cumulativePrestige": "0",
+                        "ratDef": "55",
+                        "homeState": "Idaho",
+                        "ratPot": "79",
+                        "hometown": "Nampa",
+                        "ratTalent": "48",
+                        "baselinePrestige": "60",
+                        "name": "Sam Pittman",
                         "contractYear": "0"
                     },
                     "rival": [
-                        "OSU",
-                        "MSU"
+                        "LSU",
+                        "TEX",
+                        "MIZZ"
                     ],
                     "rivalryNames": {
-                        "OSU": "The Game",
-                        "MSU": "Paul Bunyan Trophy"
+                        "LSU": "Battle for the Golden Boot",
+                        "TEX": "Southwest Classic",
+                        "MIZZ" "Battle Line Rivalry"
                     },
-                    "prestige": "83",
-                    "hexColor": "#00274C"
+                    "prestige": "68",
+                    "hexColor": "#9D2235"
                 },
                 {
                     "name": "Michigan State",
@@ -1154,7 +1157,7 @@
         },
         {
             "confFullName": "BIG-10 East",
-            "confPrestige": "90",
+            "confPrestige": "92",
             "confName": "B1GE",
             "confTeams": [
                 {
@@ -2284,7 +2287,7 @@
         },
         {
             "confFullName": "Big XII East",
-            "confPrestige": "85",
+            "confPrestige": "88",
             "confName": "XIIE",
             "confTeams": [
                 {
@@ -2855,7 +2858,7 @@
         },
         {
             "confFullName": "Big XII West",
-            "confPrestige": "85",
+            "confPrestige": "87",
             "confName": "XIIW",
             "confTeams": [
                 {
@@ -3417,9 +3420,9 @@
             ]
         },
         {
-            "confFullName": "American",
-            "confPrestige": "55",
-            "confName": "AAC",
+            "confFullName": "Atlantic Coast",
+            "confPrestige": "72",
+            "confName": "ACC",
             "confTeams": [
                 {
                     "name": "Appalachian State",
@@ -3534,9 +3537,9 @@
             ]
         },
         {
-            "confFullName": "Sunbelt",
-            "confPrestige": "55",
-            "confName": "SUN",
+            "confFullName": "PAC-10",
+            "confPrestige": "70",
+            "confName": "PAC",
             "confTeams": [
                 {
                     "name": "Akron",
@@ -3651,9 +3654,9 @@
             ]
         },
         {
-            "confFullName": "Atlantic Coast",
+            "confFullName": "American",
             "confPrestige": "60",
-            "confName": "ACC",
+            "confName": "AAC",
             "confTeams": [
                 {
                     "name": "Army",
@@ -3778,9 +3781,9 @@
             ]
         },
         {
-            "confFullName": "Mountain West",
+            "confFullName": "Sunbelt",
             "confPrestige": "60",
-            "confName": "MWC",
+            "confName": "SUN",
             "confTeams": [
                 {
                     "name": "Florida Atlantic",
@@ -3895,9 +3898,9 @@
             ]
         },
         {
-            "confFullName": "Conference USA",
+            "confFullName": "Mountain West",
             "confPrestige": "70",
-            "confName": "CUSA",
+            "confName": "MWC",
             "confTeams": [
                 {
                     "name": "Boise State",
@@ -4015,9 +4018,9 @@
             ]
         },
         {
-            "confFullName": "PAC-10",
-            "confPrestige": "70",
-            "confName": "PAC",
+            "confFullName": "Conference USA",
+            "confPrestige": "60",
+            "confName": "CUSA",
             "confTeams": [
                 {
                     "name": "East Carolina",
@@ -4214,6 +4217,6 @@
         "Boca Raton Bowl",
         "Camellia Bowl",
         "Quick Lane Bowl",
-        "Joe's KC BBQ Bowl"
+        "TEST BOWL"
     ]
 }

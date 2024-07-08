@@ -5,7 +5,7 @@
         "ACC": "B1GE",
         "MWC": "B1GW",
         "CUSA": "XIIE",
-        "PAC-10": "XIIW"
+        "PAC10": "XIIW"
     },
     "baseYear": 2024,
     "relegationRoutes": {

@@ -366,7 +366,7 @@
                     "rivalryNames": {
                         "LOU": "The Governors Cup"
                     },
-                    "prestige": "70",
+                    "prestige": "74",
                     "hexColor": "#0033A0"
                 },
                 {
@@ -581,61 +581,62 @@
             "confName": "SECW",
             "confTeams": [
                 {
-                    "name": "Indiana",
-                    "state": "Indiana",
-                    "abbreviation": "IND",
+                    "name": "Alabama Crimson Tide",
+                    "state": "Alabama",
+                    "abbreviation": "BAMA",
                     "offCoordinator": {
                         "contractLength": "3",
                         "startYear": "2022",
-                        "age": "55",
+                        "age": "46",
                         "cumulativePrestige": "0",
-                        "homeState": "Missouri",
-                        "ratPot": "53",
-                        "hometown": "Risco",
-                        "ratTalent": "84",
-                        "baselinePrestige": "75",
-                        "coachingAbility": "67",
-                        "name": "Walt Bell",
+                        "homeState": "Louisiana",
+                        "ratPot": "88",
+                        "hometown": "Scott",
+                        "ratTalent": "67",
+                        "baselinePrestige": "84",
+                        "coachingAbility": "75",
+                        "name": "Tommy Rees",
                         "contractYear": "0"
                     },
                     "defCoordinator": {
                         "contractLength": "3",
-                        "startYear": "2022",
-                        "age": "45",
+                        "startYear": "2024",
+                        "age": "36",
                         "cumulativePrestige": "0",
-                        "homeState": "Virginia",
-                        "ratPot": "72",
-                        "hometown": "Purcellville",
-                        "ratTalent": "82",
-                        "baselinePrestige": "75",
-                        "coachingAbility": "68",
-                        "name": "Chad Wilt",
+                        "homeState": "Nevada",
+                        "ratPot": "88",
+                        "hometown": "Nixon",
+                        "ratTalent": "69",
+                        "baselinePrestige": "95",
+                        "coachingAbility": "67",
+                        "name": "Kane Wommack",
                         "contractYear": "0"
                     },
                     "headCoach": {
                         "contractLength": "6",
                         "startYear": "2022",
-                        "age": "59",
-                        "ratOff": "67",
-                        "cumulativePrestige": "0",
-                        "ratDef": "65",
-                        "homeState": "Arkansas",
-                        "ratPot": "83",
-                        "hometown": "Bentonville",
-                        "ratTalent": "89",
-                        "baselinePrestige": "75",
-                        "name": "Curt Cignetti",
-                        "contractYear": "0"
+                        "age": "49",
+                        "ratOff": "90",
+                        "cumulativePrestige": "20",
+                        "ratDef": "80",
+                        "homeState": "Nevada",
+                        "ratPot": "86",
+                        "hometown": "Mesquite",
+                        "ratTalent": "91",
+                        "baselinePrestige": "95",
+                        "name": "Kalen DeBoer",
+                        "contractYear": "1"
                     },
                     "rival": [
-                        "PUR",
-                        "MSU"
+                        "AUB",
+                        "TENN"
                     ],
                     "rivalryNames": {
-                        "PUR": "The Bucket Game"
+                        "AUB": "Iron Bowl",
+                        "TENN": "Third Saturday in October"
                     },
-                    "prestige": "51",
-                    "hexColor": "#990000"
+                    "prestige": "90",
+                    "hexColor": "#9E1B32"
                 },
                 {
                     "name": "Michigan",

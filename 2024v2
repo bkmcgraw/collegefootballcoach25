@@ -581,234 +581,236 @@
             "confName": "SECW",
             "confTeams": [
                 {
-                    "name": "Indiana",
-                    "state": "Indiana",
-                    "abbreviation": "IND",
-                    "offCoordinator": {
-                        "contractLength": "3",
-                        "startYear": "2022",
-                        "age": "55",
-                        "cumulativePrestige": "0",
-                        "homeState": "Missouri",
-                        "ratPot": "53",
-                        "hometown": "Risco",
-                        "ratTalent": "84",
-                        "baselinePrestige": "75",
-                        "coachingAbility": "67",
-                        "name": "Walt Bell",
-                        "contractYear": "0"
-                    },
-                    "defCoordinator": {
-                        "contractLength": "3",
-                        "startYear": "2022",
-                        "age": "45",
-                        "cumulativePrestige": "0",
-                        "homeState": "Virginia",
-                        "ratPot": "72",
-                        "hometown": "Purcellville",
-                        "ratTalent": "82",
-                        "baselinePrestige": "75",
-                        "coachingAbility": "68",
-                        "name": "Chad Wilt",
-                        "contractYear": "0"
-                    },
-                    "headCoach": {
-                        "contractLength": "6",
-                        "startYear": "2022",
-                        "age": "59",
-                        "ratOff": "67",
-                        "cumulativePrestige": "0",
-                        "ratDef": "65",
-                        "homeState": "Arkansas",
-                        "ratPot": "83",
-                        "hometown": "Bentonville",
-                        "ratTalent": "89",
-                        "baselinePrestige": "75",
-                        "name": "Curt Cignetti",
-                        "contractYear": "0"
-                    },
-                    "rival": [
-                        "PUR",
-                        "MSU"
-                    ],
-                    "rivalryNames": {
-                        "PUR": "The Bucket Game"
-                    },
-                    "prestige": "51",
-                    "hexColor": "#990000"
-                },
-                {
-                    "name": "Michigan",
-                    "state": "Michigan",
-                    "abbreviation": "MICH",
+                    "name": "Alabama Crimson Tide",
+                    "state": "Alabama",
+                    "abbreviation": "BAMA",
                     "offCoordinator": {
                         "contractLength": "3",
                         "startYear": "2022",
                         "age": "46",
                         "cumulativePrestige": "0",
-                        "homeState": "Massachusetts",
-                        "ratPot": "52",
-                        "hometown": "Methuen",
-                        "ratTalent": "52",
-                        "baselinePrestige": "70",
-                        "coachingAbility": "69",
-                        "name": "Sherrone Moore",
-                        "contractYear": "0"
-                    },
-                    "defCoordinator": {
-                        "contractLength": "3",
-                        "startYear": "2022",
-                        "age": "37",
-                        "cumulativePrestige": "0",
-                        "homeState": "Wyoming",
-                        "ratPot": "67",
-                        "hometown": "Cheyenne",
-                        "ratTalent": "78",
-                        "baselinePrestige": "70",
-                        "coachingAbility": "82",
-                        "name": "Jesse Minter",
-                        "contractYear": "0"
-                    },
-                    "headCoach": {
-                        "contractLength": "6",
-                        "startYear": "2022",
-                        "age": "43",
-                        "ratOff": "73",
-                        "cumulativePrestige": "0",
-                        "ratDef": "69",
-                        "homeState": "Ohio",
-                        "ratPot": "82",
-                        "hometown": "Toledo",
-                        "ratTalent": "49",
-                        "baselinePrestige": "90",
-                        "name": "Jim Harbaugh",
-                        "contractYear": "0"
-                    },
-                    "rival": [
-                        "OSU",
-                        "MSU"
-                    ],
-                    "rivalryNames": {
-                        "OSU": "The Game",
-                        "MSU": "Paul Bunyan Trophy"
-                    },
-                    "prestige": "83",
-                    "hexColor": "#00274C"
-                },
-                {
-                    "name": "Michigan State",
-                    "state": "Michigan",
-                    "abbreviation": "MSU",
-                    "offCoordinator": {
-                        "contractLength": "3",
-                        "startYear": "2022",
-                        "age": "32",
-                        "cumulativePrestige": "0",
-                        "homeState": "Georgia",
-                        "ratPot": "80",
-                        "hometown": "Jefferson",
-                        "ratTalent": "47",
-                        "baselinePrestige": "80",
-                        "coachingAbility": "74",
-                        "name": "Jay Johnson",
-                        "contractYear": "0"
-                    },
-                    "defCoordinator": {
-                        "contractLength": "3",
-                        "startYear": "2022",
-                        "age": "33",
-                        "cumulativePrestige": "0",
-                        "homeState": "Georgia",
-                        "ratPot": "59",
-                        "hometown": "Garden City",
-                        "ratTalent": "75",
-                        "baselinePrestige": "80",
-                        "coachingAbility": "77",
-                        "name": "Scottie Hazelton",
-                        "contractYear": "0"
-                    },
-                    "headCoach": {
-                        "contractLength": "6",
-                        "startYear": "2022",
-                        "age": "51",
-                        "ratOff": "74",
-                        "cumulativePrestige": "0",
-                        "ratDef": "78",
-                        "homeState": "West Virginia",
+                        "homeState": "Louisiana",
                         "ratPot": "88",
-                        "hometown": "Triadelphia",
-                        "ratTalent": "82",
-                        "baselinePrestige": "80",
-                        "name": "Jonathan Smith",
+                        "hometown": "Scott",
+                        "ratTalent": "67",
+                        "baselinePrestige": "84",
+                        "coachingAbility": "75",
+                        "name": "Tommy Rees",
                         "contractYear": "0"
                     },
+                    "defCoordinator": {
+                        "contractLength": "3",
+                        "startYear": "2024",
+                        "age": "36",
+                        "cumulativePrestige": "0",
+                        "homeState": "Nevada",
+                        "ratPot": "88",
+                        "hometown": "Nixon",
+                        "ratTalent": "69",
+                        "baselinePrestige": "95",
+                        "coachingAbility": "67",
+                        "name": "Kane Wommack",
+                        "contractYear": "0"
+                    },
+                    "headCoach": {
+                        "contractLength": "6",
+                        "startYear": "2022",
+                        "age": "49",
+                        "ratOff": "90",
+                        "cumulativePrestige": "20",
+                        "ratDef": "80",
+                        "homeState": "Nevada",
+                        "ratPot": "86",
+                        "hometown": "Mesquite",
+                        "ratTalent": "91",
+                        "baselinePrestige": "95",
+                        "name": "Kalen DeBoer",
+                        "contractYear": "1"
+                    },
                     "rival": [
-                        "MICH",
-                        "IND"
+                        "AUB",
+                        "TENN"
                     ],
                     "rivalryNames": {
-                        "MICH": "Paul Bunyan Trophy"
+                        "AUB": "Iron Bowl",
+                        "TENN": "Third Saturday in October"
                     },
-                    "prestige": "72",
-                    "hexColor": "#18453B"
+                    "prestige": "92",
+                    "hexColor": "#9E1B32"
                 },
                 {
-                    "name": "Iowa",
-                    "state": "Iowa",
-                    "abbreviation": "IOWA",
+                    "name": "Arkansas Razorbacks",
+                    "state": "Arkansas",
+                    "abbreviation": "ARK",
                     "offCoordinator": {
                         "contractLength": "3",
                         "startYear": "2022",
-                        "age": "33",
+                        "age": "52",
+                        "cumulativePrestige": "0",
+                        "homeState": "New Mexico",
+                        "ratPot": "87",
+                        "hometown": "Kirtland",
+                        "ratTalent": "68",
+                        "baselinePrestige": "60",
+                        "coachingAbility": "66",
+                        "name": "Bobby Petrino",
+                        "contractYear": "0"
+                    },
+                    "defCoordinator": {
+                        "contractLength": "3",
+                        "startYear": "2022",
+                        "age": "36",
                         "cumulativePrestige": "0",
                         "homeState": "Missouri",
-                        "ratPot": "78",
-                        "hometown": "Bunceton",
-                        "ratTalent": "83",
-                        "baselinePrestige": "70",
-                        "coachingAbility": "50",
-                        "name": "Brian Ferentz",
-                        "contractYear": "0"
-                    },
-                    "defCoordinator": {
-                        "contractLength": "3",
-                        "startYear": "2022",
-                        "age": "54",
-                        "cumulativePrestige": "0",
-                        "homeState": "Florida",
-                        "ratPot": "78",
-                        "hometown": "Homosassa Springs",
-                        "ratTalent": "69",
-                        "baselinePrestige": "70",
-                        "coachingAbility": "65",
-                        "name": "Phil Parker",
+                        "ratPot": "83",
+                        "hometown": "Neelyville",
+                        "ratTalent": "71",
+                        "baselinePrestige": "60",
+                        "coachingAbility": "70",
+                        "name": "Barry Odom",
                         "contractYear": "0"
                     },
                     "headCoach": {
                         "contractLength": "6",
                         "startYear": "2022",
-                        "age": "65",
-                        "ratOff": "68",
+                        "age": "57",
+                        "ratOff": "61",
                         "cumulativePrestige": "0",
-                        "ratDef": "88",
-                        "homeState": "Montana",
-                        "ratPot": "82",
-                        "hometown": "Fishtail",
-                        "ratTalent": "70",
-                        "baselinePrestige": "70",
-                        "name": "Kirk Ferentz",
+                        "ratDef": "55",
+                        "homeState": "Idaho",
+                        "ratPot": "79",
+                        "hometown": "Nampa",
+                        "ratTalent": "48",
+                        "baselinePrestige": "60",
+                        "name": "Sam Pittman",
                         "contractYear": "0"
                     },
                     "rival": [
-                        "MINN",
-                        "ISU"
+                        "LSU",
+                        "MIZZ",
+                        "TEX"
                     ],
                     "rivalryNames": {
-                        "MINN": "Floyd of Rosedale",
-                        "ISU": "Cy-Hawk Trophy"
+                        "LSU": "Battle for the Golden Boot",
+                        "MIZZ": "Battle Line Rivalry",
+                        "TEX": "Southwest Classic"
                     },
-                    "prestige": "80",
-                    "hexColor": "#FFCD00"
+                    "prestige": "68",
+                    "hexColor": "#9D2235"
+                },
+                {
+                    "name": "Auburn Tigers",
+                    "state": "Alabama",
+                    "abbreviation": "AUB",
+                    "offCoordinator": {
+                        "contractLength": "3",
+                        "startYear": "2022",
+                        "age": "47",
+                        "cumulativePrestige": "0",
+                        "homeState": "Ohio",
+                        "ratPot": "78",
+                        "hometown": "Mount Blanchard",
+                        "ratTalent": "94",
+                        "baselinePrestige": "75",
+                        "coachingAbility": "64",
+                        "name": "Eric Kiesau",
+                        "contractYear": "0"
+                    },
+                    "defCoordinator": {
+                        "contractLength": "3",
+                        "startYear": "2022",
+                        "age": "50",
+                        "cumulativePrestige": "0",
+                        "homeState": "Missouri",
+                        "ratPot": "81",
+                        "hometown": "Galena",
+                        "ratTalent": "68",
+                        "baselinePrestige": "75",
+                        "coachingAbility": "64",
+                        "name": "Jeff Schmedding",
+                        "contractYear": "0"
+                    },
+                    "headCoach": {
+                        "contractLength": "6",
+                        "startYear": "2022",
+                        "age": "49",
+                        "ratOff": "67",
+                        "cumulativePrestige": "0",
+                        "ratDef": "70",
+                        "homeState": "Oregon",
+                        "ratPot": "80",
+                        "hometown": "Athena",
+                        "ratTalent": "50",
+                        "baselinePrestige": "75",
+                        "name": "Hugh Freeze",
+                        "contractYear": "0"
+                    },
+                    "rival": [
+                        "BAMA",
+                        "UGA"
+                    ],
+                    "rivalryNames": {
+                        "BAMA": "Iron Bowl",
+                        "UGA": "Deep South's Oldest Rivalry"
+                    },
+                    "prestige": "75",
+                    "hexColor": "#0C2340"
+                },
+                {
+                    "name": "Ole Miss Rebels",
+                    "state": "Mississippi",
+                    "abbreviation": "MISS",
+                    "offCoordinator": {
+                        "contractLength": "3",
+                        "startYear": "2022",
+                        "age": "43",
+                        "cumulativePrestige": "0",
+                        "homeState": "Maryland",
+                        "ratPot": "99",
+                        "hometown": "Glen Arm",
+                        "ratTalent": "67",
+                        "baselinePrestige": "70",
+                        "coachingAbility": "74",
+                        "name": "Charlie Weis Jr.",
+                        "contractYear": "0"
+                    },
+                    "defCoordinator": {
+                        "contractLength": "3",
+                        "startYear": "2022",
+                        "age": "53",
+                        "cumulativePrestige": "0",
+                        "homeState": "Idaho",
+                        "ratPot": "96",
+                        "hometown": "Kellogg",
+                        "ratTalent": "73",
+                        "baselinePrestige": "70",
+                        "coachingAbility": "75",
+                        "name": "Chris Partridge",
+                        "contractYear": "0"
+                    },
+                    "headCoach": {
+                        "contractLength": "6",
+                        "startYear": "2022",
+                        "age": "48",
+                        "ratOff": "87",
+                        "cumulativePrestige": "0",
+                        "ratDef": "75",
+                        "homeState": "Washington",
+                        "ratPot": "80",
+                        "hometown": "Shelton",
+                        "ratTalent": "78",
+                        "baselinePrestige": "70",
+                        "name": "Lane Kiffin",
+                        "contractYear": "0"
+                    },
+                    "rival": [
+                        "MSST"
+                    ],
+                    "rivalryNames": {
+                        "MSST": "The Egg Bowl"
+                    },
+                    "prestige": "85",
+                    "hexColor": "#CE1126"
                 },
                 {
                     "name": "Minnesota",

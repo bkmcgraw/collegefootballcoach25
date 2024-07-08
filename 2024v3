@@ -931,7 +931,7 @@
                     "hexColor": "#461D7C"
                 },
                 {
-                    "name": "Oklahoma",
+                    "name": "Oklahoma Sooners",
                     "state": "Oklahoma",
                     "abbreviation": "OKLA",
                     "offCoordinator": {
@@ -1046,7 +1046,7 @@
                         "KAN": "The Border War",
                         "ARK": "Battle Line Rivalry"
                     },
-                    "prestige": "75",
+                    "prestige": "76",
                     "hexColor": "#F1B82D"
                 },
                 {

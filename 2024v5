@@ -1167,7 +1167,7 @@
         },
         {
             "confFullName": "BIG-10 East",
-            "confPrestige": "90",
+            "confPrestige": "88",
             "confName": "B1GE",
             "confTeams": [
                 {
@@ -1224,7 +1224,7 @@
                     "rivalryNames": {
                         "PUR": "The Bucket Game"
                     },
-                    "prestige": "55",
+                    "prestige": "63",
                     "hexColor": "#990000"
                 },
                 {
@@ -1276,13 +1276,14 @@
                     },
                     "rival": [
                         "OSU",
+                        "ND",
                         "MSU"
                     ],
                     "rivalryNames": {
                         "OSU": "The Game",
                         "MSU": "Paul Bunyan Trophy"
                     },
-                    "prestige": "92",
+                    "prestige": "93",
                     "hexColor": "#00274C"
                 },
                 {
@@ -1339,293 +1340,66 @@
                     "rivalryNames": {
                         "MICH": "Paul Bunyan Trophy"
                     },
-                    "prestige": "72",
+                    "prestige": "74",
                     "hexColor": "#18453B"
                 },
                 {
-                    "name": "Pittsburgh",
-                    "state": "Pennsylvania",
-                    "abbreviation": "PITT",
+                    "name": "Notre Dame Irish",
+                    "state": "Indiana",
+                    "abbreviation": "ND",
                     "offCoordinator": {
                         "contractLength": "3",
                         "startYear": "2022",
-                        "age": "55",
+                        "age": "54",
                         "cumulativePrestige": "0",
-                        "homeState": "Texas",
-                        "ratPot": "79",
-                        "hometown": "McCamey",
-                        "ratTalent": "47",
-                        "baselinePrestige": "70",
-                        "coachingAbility": "70",
-                        "name": "Frank Cignetti Jr.",
+                        "homeState": "Arkansas",
+                        "ratPot": "73",
+                        "hometown": "Eureka Springs",
+                        "ratTalent": "46",
+                        "baselinePrestige": "75",
+                        "coachingAbility": "72",
+                        "name": "Tommy Rees",
                         "contractYear": "0"
                     },
                     "defCoordinator": {
                         "contractLength": "3",
                         "startYear": "2022",
+                        "age": "46",
+                        "cumulativePrestige": "0",
+                        "homeState": "New Jersey",
+                        "ratPot": "70",
+                        "hometown": "Colt's Nuts",
+                        "ratTalent": "79",
+                        "baselinePrestige": "75",
+                        "coachingAbility": "64",
+                        "name": "Gerad Parker",
+                        "contractYear": "0"
+                    },
+                    "headCoach": {
+                        "contractLength": "6",
+                        "startYear": "2022",
                         "age": "55",
+                        "ratOff": "65",
                         "cumulativePrestige": "0",
-                        "homeState": "Ohio",
-                        "ratPot": "54",
-                        "hometown": "Hebron",
-                        "ratTalent": "87",
-                        "baselinePrestige": "70",
-                        "coachingAbility": "70",
-                        "name": "Randy Bates",
-                        "contractYear": "0"
-                    },
-                    "headCoach": {
-                        "contractLength": "6",
-                        "startYear": "2022",
-                        "age": "50",
-                        "ratOff": "76",
-                        "cumulativePrestige": "0",
-                        "ratDef": "69",
-                        "homeState": "Georgia",
-                        "ratPot": "86",
-                        "hometown": "Watkinsville",
-                        "ratTalent": "47",
-                        "baselinePrestige": "70",
-                        "name": "Pat Narduzzi",
+                        "ratDef": "70",
+                        "homeState": "Pennsylvania",
+                        "ratPot": "52",
+                        "hometown": "Marcus Freemman",
+                        "ratTalent": "77",
+                        "baselinePrestige": "75",
+                        "name": "Marcus Freeman",
                         "contractYear": "0"
                     },
                     "rival": [
-                        "ND"
-                    ],
-                    "rivalryNames": {},
-                    "prestige": "65",
-                    "hexColor": "#003594"
-                },
-                {
-                    "name": "Miami",
-                    "state": "Florida",
-                    "abbreviation": "MIA",
-                    "offCoordinator": {
-                        "contractLength": "3",
-                        "startYear": "2022",
-                        "age": "38",
-                        "cumulativePrestige": "0",
-                        "homeState": "North Carolina",
-                        "ratPot": "82",
-                        "hometown": "Durham",
-                        "ratTalent": "65",
-                        "baselinePrestige": "75",
-                        "coachingAbility": "80",
-                        "name": "Josh Gattis",
-                        "contractYear": "0"
-                    },
-                    "defCoordinator": {
-                        "contractLength": "3",
-                        "startYear": "2022",
-                        "age": "63",
-                        "cumulativePrestige": "0",
-                        "homeState": "South Carolina",
-                        "ratPot": "85",
-                        "hometown": "Dillon",
-                        "ratTalent": "66",
-                        "baselinePrestige": "75",
-                        "coachingAbility": "80",
-                        "name": "Kevin Steele",
-                        "contractYear": "0"
-                    },
-                    "headCoach": {
-                        "contractLength": "6",
-                        "startYear": "2022",
-                        "age": "51",
-                        "ratOff": "85",
-                        "cumulativePrestige": "0",
-                        "ratDef": "80",
-                        "homeState": "Florida",
-                        "ratPot": "80",
-                        "hometown": "Miami",
-                        "ratTalent": "92",
-                        "baselinePrestige": "80",
-                        "name": "Mario Cristobal",
-                        "contractYear": "0"
-                    },
-                    "rival": [
-                        "FSU",
-                        "VT"
+                        "USC",
+                        "MICH",
                     ],
                     "rivalryNames": {},
                     "prestige": "85",
-                    "hexColor": "#F47321"
+                    "hexColor": "#0C2340"
                 },
                 {
-                    "name": "North Carolina",
-                    "state": "North Carolina",
-                    "abbreviation": "UNC",
-                    "offCoordinator": {
-                        "contractLength": "3",
-                        "startYear": "2022",
-                        "age": "51",
-                        "cumulativePrestige": "0",
-                        "homeState": "Oregon",
-                        "ratPot": "83",
-                        "hometown": "Sheridan",
-                        "ratTalent": "57",
-                        "baselinePrestige": "75",
-                        "coachingAbility": "77",
-                        "name": "Phil Longo",
-                        "contractYear": "0"
-                    },
-                    "defCoordinator": {
-                        "contractLength": "3",
-                        "startYear": "2022",
-                        "age": "62",
-                        "cumulativePrestige": "0",
-                        "homeState": "New Hampshire",
-                        "ratPot": "62",
-                        "hometown": "Laconia",
-                        "ratTalent": "55",
-                        "baselinePrestige": "75",
-                        "coachingAbility": "65",
-                        "name": "Gene Chizik",
-                        "contractYear": "0"
-                    },
-                    "headCoach": {
-                        "contractLength": "6",
-                        "startYear": "2022",
-                        "age": "70",
-                        "ratOff": "59",
-                        "cumulativePrestige": "0",
-                        "ratDef": "68",
-                        "homeState": "South Carolina",
-                        "ratPot": "70",
-                        "hometown": "Hanahan",
-                        "ratTalent": "77",
-                        "baselinePrestige": "75",
-                        "name": "Mack Brown",
-                        "contractYear": "0"
-                    },
-                    "rival": [
-                        "DUKE",
-                        "WAKE",
-                        "NCSU"
-                    ],
-                    "rivalryNames": {
-                        "DUKE": "Tobacco Road",
-                        "NCSU": "Tobacco Road"
-                    },
-                    "prestige": "80",
-                    "hexColor": "#7BAFD4"
-                },
-                {
-                    "name": "North Carolina State",
-                    "state": "North Carolina",
-                    "abbreviation": "NCSU",
-                    "offCoordinator": {
-                        "contractLength": "3",
-                        "startYear": "2022",
-                        "age": "39",
-                        "cumulativePrestige": "0",
-                        "homeState": "Illinois",
-                        "ratPot": "75",
-                        "hometown": "Glenview",
-                        "ratTalent": "50",
-                        "baselinePrestige": "55",
-                        "coachingAbility": "67",
-                        "name": "Tim Beck",
-                        "contractYear": "0"
-                    },
-                    "defCoordinator": {
-                        "contractLength": "3",
-                        "startYear": "2022",
-                        "age": "32",
-                        "cumulativePrestige": "0",
-                        "homeState": "Minnesota",
-                        "ratPot": "83",
-                        "hometown": "Mounds View",
-                        "ratTalent": "67",
-                        "baselinePrestige": "55",
-                        "coachingAbility": "74",
-                        "name": "Tony Gibson",
-                        "contractYear": "0"
-                    },
-                    "headCoach": {
-                        "contractLength": "6",
-                        "startYear": "2022",
-                        "age": "45",
-                        "ratOff": "47",
-                        "cumulativePrestige": "0",
-                        "ratDef": "64",
-                        "homeState": "American Samoa",
-                        "ratPot": "76",
-                        "hometown": "Ili‘ili",
-                        "ratTalent": "73",
-                        "baselinePrestige": "55",
-                        "name": "Dave Doeren",
-                        "contractYear": "0"
-                    },
-                    "rival": [
-                        "CLEM",
-                        "UNC"
-                    ],
-                    "rivalryNames": {
-                        "CLEM": "Textile Bowl",
-                        "UNC": "Tobacco Road"
-                    },
-                    "prestige": "84",
-                    "hexColor": "#CC0000"
-                },
-                {
-                    "name": "Virginia",
-                    "state": "Virginia",
-                    "abbreviation": "UVA",
-                    "offCoordinator": {
-                        "contractLength": "3",
-                        "startYear": "2022",
-                        "age": "41",
-                        "cumulativePrestige": "0",
-                        "homeState": "Arizona",
-                        "ratPot": "70",
-                        "hometown": "Lakeside",
-                        "ratTalent": "92",
-                        "baselinePrestige": "60",
-                        "coachingAbility": "73",
-                        "name": "Des Kitchings",
-                        "contractYear": "0"
-                    },
-                    "defCoordinator": {
-                        "contractLength": "3",
-                        "startYear": "2022",
-                        "age": "44",
-                        "cumulativePrestige": "0",
-                        "homeState": "Tennessee",
-                        "ratPot": "52",
-                        "hometown": "Murfreesboro",
-                        "ratTalent": "56",
-                        "baselinePrestige": "60",
-                        "coachingAbility": "72",
-                        "name": "John Rudzinski",
-                        "contractYear": "0"
-                    },
-                    "headCoach": {
-                        "contractLength": "6",
-                        "startYear": "202",
-                        "age": "47",
-                        "ratOff": "68",
-                        "cumulativePrestige": "0",
-                        "ratDef": "75",
-                        "homeState": "Delaware",
-                        "ratPot": "97",
-                        "hometown": "Lewes",
-                        "ratTalent": "47",
-                        "baselinePrestige": "60",
-                        "name": "Tony Elliott",
-                        "contractYear": "0"
-                    },
-                    "rival": [
-                        "VT"
-                    ],
-                    "rivalryNames": {
-                        "VT": "Commonwealth Cup"
-                    },
-                    "prestige": "46",
-                    "hexColor": "#232D4B"
-                },
-                {
-                    "name": "Virginia Tech",
+                    "name": "Virginia Tech Hokies",
                     "state": "Virginia",
                     "abbreviation": "VT",
                     "offCoordinator": {
@@ -1677,22 +1451,12 @@
                     "rivalryNames": {
                         "UVA": "Commonwealth Cup"
                     },
-                    "prestige": "80",
+                    "prestige": "70",
                     "hexColor": "#630031"
-                },
-                {
-                    "name": "Wake Forest",
-                    "state": "North Carolina",
-                    "abbreviation": "WAKE",
-                    "rival": [
-                        "DUKE",
-                        "UNC"
-                    ],
-                    "rivalryNames": {
-                        "WAKE": "Tobacco Bowl"
-                    },
-                    "prestige": "65",
-                    "hexColor": "#9E7E38",
+                },                {
+                    "name": "Rutgers Scarlet Knights",
+                    "state": "New Jersey",
+                    "abbreviation": "RUT",
                     "headCoach": {
                         "contractLength": "6",
                         "startYear": "2022",
@@ -1701,13 +1465,245 @@
                         "cumulativePrestige": "0",
                         "ratDef": "70",
                         "homeState": "New Jersey",
-                        "ratPot": "94",
-                        "hometown": "Avenel",
+                        "ratPot": "83",
+                        "hometown": "Wyckoff",
                         "ratTalent": "76",
                         "baselinePrestige": "65",
-                        "name": "David Clawson",
+                        "name": "Greg Schiano",
                         "contractYear": "0"
-                    }
+                        },
+                    "rival": [
+                        "MARY"
+                    ],
+                    "rivalryNames": {},
+                    "prestige": "66",
+                    "hexColor": "#CC0033"
+                },
+                {
+                    "name": "Ohio State Buckeyes",
+                    "state": "Ohio",
+                    "abbreviation": "OSU",
+                    "offCoordinator": {
+                        "contractLength": "3",
+                        "startYear": "2022",
+                        "age": "38",
+                        "cumulativePrestige": "0",
+                        "homeState": "Michigan",
+                        "ratPot": "52",
+                        "hometown": "Paris",
+                        "ratTalent": "90",
+                        "baselinePrestige": "80",
+                        "coachingAbility": "74",
+                        "name": "Kevin Wilson",
+                        "contractYear": "0"
+                    },
+                    "defCoordinator": {
+                        "contractLength": "3",
+                        "startYear": "2022",
+                        "age": "52",
+                        "cumulativePrestige": "0",
+                        "homeState": "South Carolina",
+                        "ratPot": "84",
+                        "hometown": "Hampton",
+                        "ratTalent": "62",
+                        "baselinePrestige": "85",
+                        "coachingAbility": "88",
+                        "name": "Jim Knowles",
+                        "contractYear": "0"
+                    },
+                    "headCoach": {
+                        "contractLength": "6",
+                        "startYear": "2022",
+                        "age": "37",
+                        "ratOff": "85",
+                        "cumulativePrestige": "0",
+                        "ratDef": "80",
+                        "homeState": "New Mexico",
+                        "ratPot": "85",
+                        "hometown": "Artesia",
+                        "ratTalent": "64",
+                        "baselinePrestige": "90",
+                        "name": "Ryan Day",
+                        "contractYear": "0"
+                    },
+                    "rival": [
+                        "MICH",
+                        "PSU"
+                    ],
+                    "rivalryNames": {
+                        "MICH": "The Game"
+                    },
+                    "prestige": "92",
+                    "hexColor": "#BB0000"
+                },
+                {
+                    "name": "Penn State Nittany Lions",
+                    "state": "Pennsylvania",
+                    "abbreviation": "PSU",
+                    "offCoordinator": {
+                        "contractLength": "3",
+                        "startYear": "2022",
+                        "age": "45",
+                        "cumulativePrestige": "0",
+                        "homeState": "Kentucky",
+                        "ratPot": "79",
+                        "hometown": "Russell Springs",
+                        "ratTalent": "45",
+                        "baselinePrestige": "65",
+                        "coachingAbility": "61",
+                        "name": "Mike Yurcich",
+                        "contractYear": "0"
+                    },
+                    "defCoordinator": {
+                        "contractLength": "3",
+                        "startYear": "2022",
+                        "age": "47",
+                        "cumulativePrestige": "0",
+                        "homeState": "Florida",
+                        "ratPot": "77",
+                        "hometown": "Dade City",
+                        "ratTalent": "77",
+                        "baselinePrestige": "65",
+                        "coachingAbility": "70",
+                        "name": "Manny Diaz",
+                        "contractYear": "0"
+                    },
+                    "headCoach": {
+                        "contractLength": "6",
+                        "startYear": "2022",
+                        "age": "50",
+                        "ratOff": "67",
+                        "cumulativePrestige": "0",
+                        "ratDef": "74",
+                        "homeState": "Pennsylvania",
+                        "ratPot": "69",
+                        "hometown": "Langhome",
+                        "ratTalent": "59",
+                        "baselinePrestige": "65",
+                        "name": "James Franklin",
+                        "contractYear": "0"
+                    },
+                    "rival": [
+                        "OSU",
+                        "PITT"
+                    ],
+                    "rivalryNames": {
+                        "PITT": "The Keystone Classic"
+                    },
+                    "prestige": "86",
+                    "hexColor": "#041E42"
+                },
+                {
+                    "name": "Purdue Boilermakers",
+                    "state": "Indiana",
+                    "abbreviation": "PUR",
+                    "offCoordinator": {
+                        "contractLength": "3",
+                        "startYear": "2022",
+                        "age": "50",
+                        "cumulativePrestige": "0",
+                        "homeState": "Connecticut",
+                        "ratPot": "54",
+                        "hometown": "Trumbull",
+                        "ratTalent": "92",
+                        "baselinePrestige": "65",
+                        "coachingAbility": "69",
+                        "name": "Brian Brohm",
+                        "contractYear": "0"
+                    },
+                    "defCoordinator": {
+                        "contractLength": "3",
+                        "startYear": "2022",
+                        "age": "45",
+                        "cumulativePrestige": "0",
+                        "homeState": "New Jersey",
+                        "ratPot": "52",
+                        "hometown": "Colts Neck",
+                        "ratTalent": "63",
+                        "baselinePrestige": "65",
+                        "coachingAbility": "62",
+                        "name": "Ron English",
+                        "contractYear": "0"
+                    },
+                    "headCoach": {
+                        "contractLength": "6",
+                        "startYear": "2022",
+                        "age": "53",
+                        "ratOff": "68",
+                        "cumulativePrestige": "0",
+                        "ratDef": "72",
+                        "homeState": "Florida",
+                        "ratPot": "98",
+                        "hometown": "Meadow Woods",
+                        "ratTalent": "67",
+                        "baselinePrestige": "65",
+                        "name": "Ryan Walters",
+                        "contractYear": "0"
+                    },
+                    "rival": [
+                        "IND",
+                        "ILL"
+                    ],
+                    "rivalryNames": {
+                        "INDY": "The Bucket Game"
+                    },
+                    "prestige": "72",
+                    "hexColor": "#CEB888"
+                },
+                {
+                    "name": "Maryland Terrapins",
+                    "state": "Maryland",
+                    "abbreviation": "MARY",
+                    "offCoordinator": {
+                        "contractLength": "3",
+                        "startYear": "2022",
+                        "age": "55",
+                        "cumulativePrestige": "0",
+                        "homeState": "Maine",
+                        "ratPot": "85",
+                        "hometown": "Mechanic Falls",
+                        "ratTalent": "58",
+                        "baselinePrestige": "50",
+                        "coachingAbility": "71",
+                        "name": "Dan Enos",
+                        "contractYear": "0"
+                    },
+                    "defCoordinator": {
+                        "contractLength": "3",
+                        "startYear": "2022",
+                        "age": "43",
+                        "cumulativePrestige": "0",
+                        "homeState": "Iowa",
+                        "ratPot": "67",
+                        "hometown": "Eagle Grove",
+                        "ratTalent": "57",
+                        "baselinePrestige": "50",
+                        "coachingAbility": "64",
+                        "name": "Brian Williams",
+                        "contractYear": "0"
+                    },
+                    "headCoach": {
+                        "contractLength": "6",
+                        "startYear": "2022",
+                        "age": "53",
+                        "ratOff": "67",
+                        "cumulativePrestige": "0",
+                        "ratDef": "62",
+                        "homeState": "Connecticut",
+                        "ratPot": "50",
+                        "hometown": "Bristol",
+                        "ratTalent": "61",
+                        "baselinePrestige": "50",
+                        "name": "Mike Locksley",
+                        "contractYear": "0"
+                    },
+                    "rival": [
+                        "ILL",
+                        "RUT"
+                    ],
+                    "rivalryNames": {},
+                    "prestige": "60",
+                    "hexColor": "#E03A3E"
                 }
             ]
         },

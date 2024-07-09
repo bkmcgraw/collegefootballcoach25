@@ -3549,114 +3549,225 @@
             "confName": "PAC",
             "confTeams": [
                 {
-                    "name": "Akron",
-                    "state": "Ohio",
-                    "abbreviation": "AKR",
+                    "name": "SMU Mustangs",
+                    "state": "Texas",
+                    "abbreviation": "SMU",
                     "rival": [
-                        "KENT"
+                        "HOU",
+                        "UNLV"
                     ],
                     "rivalryNames": {},
-                    "prestige": "37",
-                    "hexColor": "#041E42"
+                    "prestige": "76",
+                    "hexColor": "#0033A0"
                 },
                 {
-                    "name": "Ball State",
-                    "state": "Indiana",
-                    "abbreviation": "BALL",
+                    "name": "Boise State Broncos",
+                    "state": "Idaho",
+                    "abbreviation": "BSU",
                     "rival": [
-                        "BGSU"
+                        "WYO",
+                        "ORSU"
                     ],
-                    "rivalryNames": {},
-                    "prestige": "52",
-                    "hexColor": "#BA0C2F"
+                    "rivalryNames": {
+                    "ORSU": "Battle of the Gorge"
+                    },
+                    "prestige": "73",
+                    "hexColor": "#D64309"
                 },
                 {
-                    "name": "Bowling Green",
-                    "state": "Ohio",
-                    "abbreviation": "BGSU",
+                    "name": "Oregon State Beavers",
+                    "state": "Oregon",
+                    "abbreviation": "ORSU",
+                    "offCoordinator": {
+                        "contractLength": "3",
+                        "startYear": "2022",
+                        "age": "55",
+                        "cumulativePrestige": "0",
+                        "homeState": "Massachusetts",
+                        "ratPot": "61",
+                        "hometown": "Newton Centre",
+                        "ratTalent": "49",
+                        "baselinePrestige": "70",
+                        "coachingAbility": "66",
+                        "name": "Brian Lindgren",
+                        "contractYear": "0"
+                    },
+                    "defCoordinator": {
+                        "contractLength": "3",
+                        "startYear": "2022",
+                        "age": "47",
+                        "cumulativePrestige": "0",
+                        "homeState": "American Samoa",
+                        "ratPot": "91",
+                        "hometown": "Letula",
+                        "ratTalent": "56",
+                        "baselinePrestige": "70",
+                        "coachingAbility": "64",
+                        "name": "Trent Bray",
+                        "contractYear": "0"
+                    },
+                    "headCoach": {
+                        "contractLength": "6",
+                        "startYear": "2022",
+                        "age": "46",
+                        "ratOff": "72",
+                        "cumulativePrestige": "0",
+                        "ratDef": "67",
+                        "homeState": "Nevada",
+                        "ratPot": "67",
+                        "hometown": "Fallon",
+                        "ratTalent": "64",
+                        "baselinePrestige": "70",
+                        "name": "Jonathan Smith",
+                        "contractYear": "0"
+                    },
                     "rival": [
-                        "BALL"
+                        "ORE",
+                        "BSU"
+                    ],
+                    "rivalryNames": {
+                        "ORE": "The Civil War"
+                        "BSU": "Battle of the Gorge"
+                    },
+                    "prestige": "77",
+                    "hexColor": "#DC4405"
+                },
+                {
+                    "name": "San Diego State Aztecs",
+                    "state": "California",
+                    "abbreviation": "SDSU",
+                    "rival": [
+                        "UNLV",
+                        "CAL"
                     ],
                     "rivalryNames": {},
                     "prestige": "60",
-                    "hexColor": "#FE5000"
+                    "hexColor": "#A6192E"
                 },
                 {
-                    "name": "Central Michigan",
-                    "state": "Michigan",
-                    "abbreviation": "CMU",
+                    "name": "Colorado State Rams",
+                    "state": "Colorado",
+                    "abbreviation": "CSU",
                     "rival": [
-                        "TOL"
+                        "CU",
+                        "WYO"
                     ],
-                    "rivalryNames": {},
-                    "prestige": "50",
-                    "hexColor": "#6A0032"
+                    "rivalryNames": {
+                    "CU": "Rocky Mountain Showdown"
+                    "WYO": "Stateline Standoff"
+                    },
+                    "prestige": "62",
+                    "hexColor": "#1E4D2B"
                 },
                 {
-                    "name": "Eastern Michigan",
-                    "state": "Michigan",
-                    "abbreviation": "EMU",
+                    "name": "Wyoming Cowboys",
+                    "state": "Wyoming",
+                    "abbreviation": "WYO",
                     "rival": [
-                        "WMU"
+                        "CSU"
+                    ],
+                    "rivalryNames": {
+                    "CSU": "Stateline Standoff"
+                    },
+                    "prestige": "58",
+                    "hexColor": "#492F24"
+                }
+                {
+                    "name": "UNLV Runnin' Rebels",
+                    "state": "Nevada",
+                    "abbreviation": "UNLV",
+                    "rival": [
+                        "NEV",
+                        "SDSU",
+                        "SMU"
                     ],
                     "rivalryNames": {},
-                    "prestige": "40",
-                    "hexColor": "#006633"
+                    "prestige": "55",
+                    "hexColor": "#CF0A2C"
                 },
                 {
-                    "name": "Kent State",
-                    "state": "Ohio",
-                    "abbreviation": "KENT",
+                    "name": "Cal Bears",
+                    "state": "California",
+                    "abbreviation": "CAL",
                     "rival": [
-                        "AKR"
+                        "STAN",
+                        "SDSU"
                     ],
-                    "rivalryNames": {},
-                    "prestige": "24",
-                    "hexColor": "#002664"
-                },
-                {
-                    "name": "Miami OH",
-                    "state": "Ohio",
-                    "abbreviation": "MIOH",
-                    "rival": [
-                        "OHIO"
-                    ],
-                    "rivalryNames": {},
+                    "rivalryNames": {
+                    "STAN": "The Big Game"
+                    },
                     "prestige": "68",
-                    "hexColor": "#B61E2E"
+                    "hexColor": "#003262"
                 },
                 {
-                    "name": "Ohio",
-                    "state": "Ohio",
-                    "abbreviation": "OHIO",
+                    "name": "Stanford Cardinal",
+                    "state": "California",
+                    "abbreviation": "STAN",
                     "rival": [
-                        "MIOH"
+                        "CAL",
+                        "SDSU"
                     ],
-                    "rivalryNames": {},
-                    "prestige": "68",
-                    "hexColor": "#00694E"
+                    "rivalryNames": {
+                    "CAL": "The Big Game"
+                    },
+                    "prestige": "71",
+                    "hexColor": "#8C1515"
                 },
                 {
-                    "name": "Toledo",
-                    "state": "Ohio",
-                    "abbreviation": "TOL",
+                    "name": "Washington State Cougers",
+                    "state": "Washington",
+                    "abbreviation": "WSU",
+                    "offCoordinator": {
+                        "contractLength": "3",
+                        "startYear": "2022",
+                        "age": "54",
+                        "cumulativePrestige": "0",
+                        "homeState": "Massachusetts",
+                        "ratPot": "76",
+                        "hometown": "North Oxford",
+                        "ratTalent": "58",
+                        "baselinePrestige": "70",
+                        "coachingAbility": "64",
+                        "name": "Eric Morris",
+                        "contractYear": "0"
+                    },
+                    "defCoordinator": {
+                        "contractLength": "3",
+                        "startYear": "2022",
+                        "age": "53",
+                        "cumulativePrestige": "0",
+                        "homeState": "Alaska",
+                        "ratPot": "90",
+                        "hometown": "Kotzebue",
+                        "ratTalent": "76",
+                        "baselinePrestige": "70",
+                        "coachingAbility": "71",
+                        "name": "Brian Ward",
+                        "contractYear": "0"
+                    },
+                    "headCoach": {
+                        "contractLength": "6",
+                        "startYear": "2022",
+                        "age": "58",
+                        "ratOff": "76",
+                        "cumulativePrestige": "0",
+                        "ratDef": "58",
+                        "homeState": "California",
+                        "ratPot": "74",
+                        "hometown": "Big Bear",
+                        "ratTalent": "53",
+                        "baselinePrestige": "70",
+                        "name": "Jake Dickert",
+                        "contractYear": "0"
+                    },
                     "rival": [
-                        "CMU"
+                        "WASH"
                     ],
-                    "rivalryNames": {},
-                    "prestige": "73",
-                    "hexColor": "#15397F"
-                },
-                {
-                    "name": "Western Michigan",
-                    "state": "Michigan",
-                    "abbreviation": "WMU",
-                    "rival": [
-                        "EMU"
-                    ],
-                    "rivalryNames": {},
-                    "prestige": "47",
-                    "hexColor": "#6C4023"
+                    "rivalryNames": {
+                        "WASH": "The Apple Cup"
+                    },
+                    "prestige": "72",
+                    "hexColor": "#981E32"
                 }
             ]
         },

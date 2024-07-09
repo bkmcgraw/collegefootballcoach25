@@ -1344,7 +1344,7 @@
                     "hexColor": "#18453B"
                 },
                 {
-                    "name": "Notre Dame Irish",
+                    "name": "Notre Dame Fighting Irish",
                     "state": "Indiana",
                     "abbreviation": "ND",
                     "offCoordinator": {
@@ -1709,7 +1709,7 @@
         },
         {
             "confFullName": "BIG-10 West",
-            "confPrestige": "88",
+            "confPrestige": "82",
             "confName": "B1GW",
             "confTeams": [
                 {
@@ -1823,7 +1823,7 @@
                     "rivalryNames": {
                         "UCLA": "Victory Bell"
                     },
-                    "prestige": "77",
+                    "prestige": "76",
                     "hexColor": "#990000"
                 },
                 {
@@ -1880,7 +1880,7 @@
                     "rivalryNames": {
                         "WSU": "The Apple Cup"
                     },
-                    "prestige": "75",
+                    "prestige": "77",
                     "hexColor": "#4B2E83"
                 },
                 {
@@ -2167,7 +2167,7 @@
                     "hexColor": "#E41C38"
                 },
                 {
-                    "name": "Illinois Illini",
+                    "name": "Illinois Fighting Illini",
                     "state": "Illinois",
                     "abbreviation": "ILL",
                     "offCoordinator": {

@@ -2704,7 +2704,7 @@
                     "rivalryNames": {
                      "LOU": "Ohio River Rivalry"
                     },
-                    "prestige": "69",
+                    "prestige": "66",
                     "hexColor": "#000000"
                 },
                 {
@@ -3341,7 +3341,7 @@
                         "TEX"
                     ],
                     "rivalryNames": {},
-                    "prestige": "79",
+                    "prestige": "80",
                     "hexColor": "#CC0000"
                 },
                 {
@@ -3364,114 +3364,182 @@
             "confName": "ACC",
             "confTeams": [
                 {
-                    "name": "Appalachian State",
+                    "name": "Georgia Tech Yellowjackets",
+                    "state": "Georgia",
+                    "abbreviation": "GT",
+                    "rival": [
+                        "UGA",
+                        "SYR"
+                    ],
+                    "rivalryNames": {},
+                    "prestige": "70",
+                    "hexColor": "#B3A369"
+                },
+                {
+                    "name": "Boston College Eagles",
+                    "state": "Massachusetts",
+                    "abbreviation": "BC",
+                    "rival": [
+                        "MARY",
+                        "SYR"
+                    ],
+                    "rivalryNames": {},
+                    "prestige": "65",
+                    "hexColor": "#98002E"
+                },
+                {
+                    "name": "Syracuse Orange",
+                    "state": "New York",
+                    "abbreviation": "SYR",
+                    "rival": [
+                        "GT",
+                        "BC"
+                    ],
+                    "rivalryNames": {},
+                    "prestige": "76",
+                    "hexColor": "#F76900"
+                },
+                {
+                    "name": "Pittsburgh Panthers",
+                    "state": "Pennsylvania",
+                    "abbreviation": "PITT",
+                    "offCoordinator": {
+                        "contractLength": "3",
+                        "startYear": "2022",
+                        "age": "55",
+                        "cumulativePrestige": "0",
+                        "homeState": "Texas",
+                        "ratPot": "79",
+                        "hometown": "McCamey",
+                        "ratTalent": "47",
+                        "baselinePrestige": "70",
+                        "coachingAbility": "70",
+                        "name": "Frank Cignetti Jr.",
+                        "contractYear": "0"
+                    },
+                    "defCoordinator": {
+                        "contractLength": "3",
+                        "startYear": "2022",
+                        "age": "55",
+                        "cumulativePrestige": "0",
+                        "homeState": "Ohio",
+                        "ratPot": "54",
+                        "hometown": "Hebron",
+                        "ratTalent": "87",
+                        "baselinePrestige": "70",
+                        "coachingAbility": "70",
+                        "name": "Randy Bates",
+                        "contractYear": "0"
+                    },
+                    "headCoach": {
+                        "contractLength": "6",
+                        "startYear": "2022",
+                        "age": "50",
+                        "ratOff": "76",
+                        "cumulativePrestige": "0",
+                        "ratDef": "69",
+                        "homeState": "Georgia",
+                        "ratPot": "86",
+                        "hometown": "Watkinsville",
+                        "ratTalent": "47",
+                        "baselinePrestige": "70",
+                        "name": "Pat Narduzzi",
+                        "contractYear": "0"
+                    },
+                    "rival": [
+                        "ND",
+                        "WVU"
+                    ],
+                    "rivalryNames": {},
+                    "prestige": "69",
+                    "hexColor": "#003594"
+                },
+                {
+                    "name": "Tulane Green Wave",
+                    "state": "Louisiana",
+                    "abbreviation": "TUL",
+                    "rival": [
+                        "LSU",
+                        "USF"
+                    ],
+                    "rivalryNames": {},
+                    "prestige": "77",
+                    "hexColor": "#006747"
+                },
+                {
+                    "name": "Temple Owls",
+                    "state": "Pennsylvania",
+                    "abbreviation": "TEM",
+                    "rival": [
+                        "UCONN"
+                    ],
+                    "rivalryNames": {},
+                    "prestige": "30",
+                    "hexColor": "#9D2235"
+                },
+                {
+                    "name": "Appalachian State Mountaineers",
                     "state": "North Carolina",
                     "abbreviation": "APP",
                     "rival": [
-                        "CCU"
+                        "WAKE"
                     ],
                     "rivalryNames": {},
                     "prestige": "58",
                     "hexColor": "#222222"
                 },
                 {
-                    "name": "Arkansas State",
-                    "state": "Arkansas",
-                    "abbreviation": "AKSU",
+                    "name": "UConn Huskies",
+                    "state": "Connecticut",
+                    "abbreviation": "CONN",
                     "rival": [
-                        "TSU"
+                        "MASS",
+                        "TEM"
                     ],
                     "rivalryNames": {},
-                    "prestige": "50",
-                    "hexColor": "#CC092F"
+                    "prestige": "35",
+                    "hexColor": "#000E2F"
                 },
                 {
-                    "name": "Coastal Carolina",
-                    "state": "South Carolina",
-                    "abbreviation": "CCU",
+                    "name": "USF Bulls",
+                    "state": "Florida",
+                    "abbreviation": "USF",
                     "rival": [
+                        "TUL"
+                    ],
+                    "rivalryNames": {},
+                    "prestige": "63",
+                    "hexColor": "#006747"
+                },                
+                {
+                    "name": "Wake Forest Demon Deacons",
+                    "state": "North Carolina",
+                    "abbreviation": "WAKE",
+                    "headCoach": {
+                        "contractLength": "6",
+                        "startYear": "2022",
+                        "age": "58",
+                        "ratOff": "70",
+                        "cumulativePrestige": "0",
+                        "ratDef": "70",
+                        "homeState": "New Jersey",
+                        "ratPot": "94",
+                        "hometown": "Avenel",
+                        "ratTalent": "76",
+                        "baselinePrestige": "65",
+                        "name": "David Clawson",
+                        "contractYear": "0"
+                    },
+                    "rival": [
+                        "DUKE",
+                        "UNC",
                         "APP"
                     ],
-                    "rivalryNames": {},
-                    "prestige": "70",
-                    "hexColor": "#006F71"
-                },
-                {
-                    "name": "Georgia Southern",
-                    "state": "Georgia",
-                    "abbreviation": "GSOU",
-                    "rival": [
-                        "GSU"
-                    ],
-                    "rivalryNames": {},
-                    "prestige": "43",
-                    "hexColor": "#011E41"
-                },
-                {
-                    "name": "Georgia State",
-                    "state": "Georgia",
-                    "abbreviation": "GSU",
-                    "rival": [
-                        "GSOU"
-                    ],
-                    "rivalryNames": {},
-                    "prestige": "48",
-                    "hexColor": "#0039A6"
-                },
-                {
-                    "name": "Louisiana",
-                    "state": "Louisiana",
-                    "abbreviation": "ULL",
-                    "rival": [
-                        "USM"
-                    ],
-                    "rivalryNames": {},
-                    "prestige": "52",
-                    "hexColor": "#CE181E"
-                },
-                {
-                    "name": "Texas State",
-                    "state": "Louisiana",
-                    "abbreviation": "TSU",
-                    "rival": [
-                        "AKSU"
-                    ],
-                    "rivalryNames": {},
-                    "prestige": "62",
-                    "hexColor": "#840029"
-                },
-                {
-                    "name": "South Alabama",
-                    "state": "Alabama",
-                    "abbreviation": "USA",
-                    "rival": [
-                        "TROY"
-                    ],
-                    "rivalryNames": {},
-                    "prestige": "58",
-                    "hexColor": "#00205B"
-                },
-                {
-                    "name": "James Madison",
-                    "state": "Virginia",
-                    "abbreviation": "JMU",
-                    "rival": [
-                        "ODU"
-                    ],
-                    "rivalryNames": {},
-                    "prestige": "65",
-                    "hexColor": "#450084"
-                },
-                {
-                    "name": "Troy",
-                    "state": "Alabama",
-                    "abbreviation": "TROY",
-                    "rival": [
-                        "USA"
-                    ],
-                    "rivalryNames": {},
-                    "prestige": "72",
-                    "hexColor": "#8A2432"
+                    "rivalryNames": {
+                        "WAKE": "Tobacco Bowl"
+                    },
+                    "prestige": "60",
+                    "hexColor": "#9E7E38"
                 }
             ]
         },

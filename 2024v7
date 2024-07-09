@@ -2282,7 +2282,7 @@
         },
         {
             "confFullName": "Big XII East",
-            "confPrestige": "84",
+            "confPrestige": "83",
             "confName": "XIIE",
             "confTeams": [
                 {
@@ -2397,7 +2397,7 @@
                         "UCF"
                     ],
                     "rivalryNames": {},
-                    "prestige": "82",
+                    "prestige": "84",
                     "hexColor": "#F47321"
                 },
                 {
@@ -2456,7 +2456,7 @@
                         "CLEM": "Textile Bowl",
                         "UNC": "Tobacco Road"
                     },
-                    "prestige": "80",
+                    "prestige": "81",
                     "hexColor": "#CC0000"
                 },
                 {
@@ -2515,7 +2515,7 @@
                         "IOWA": "The Cy-Hawk Trophy",
                         "KSU": "Farmageddon"
                     },
-                    "prestige": "74",
+                    "prestige": "76",
                     "hexColor": "#C8102E"
                 },
                 {
@@ -2704,7 +2704,7 @@
                     "rivalryNames": {
                      "LOU": "Ohio River Rivalry"
                     },
-                    "prestige": "66",
+                    "prestige": "69",
                     "hexColor": "#000000"
                 },
                 {
@@ -2762,7 +2762,7 @@
                         "UK": "The Governors Cup",
                         "CIN": "Ohio River Rivalry"
                     },
-                    "prestige": "76",
+                    "prestige": "78",
                     "hexColor": "#AD0000"
                 },
                 {
@@ -2820,7 +2820,7 @@
                     "rivalryNames": {
                         "PITT": "The Backyard Brawl"
                     },
-                    "prestige": "74",
+                    "prestige": "76",
                     "hexColor": "#002855"
                 }
             ]

@@ -3549,225 +3549,114 @@
             "confName": "PAC",
             "confTeams": [
                 {
-                    "name": "SMU Mustangs",
-                    "state": "Texas",
-                    "abbreviation": "SMU",
+                    "name": "Appalachian State",
+                    "state": "North Carolina",
+                    "abbreviation": "APP",
                     "rival": [
-                        "HOU",
-                        "UNLV"
+                        "CCU"
                     ],
                     "rivalryNames": {},
-                    "prestige": "76",
-                    "hexColor": "#0033A0"
-                },
-                {
-                    "name": "Boise State Broncos",
-                    "state": "Idaho",
-                    "abbreviation": "BSU",
-                    "rival": [
-                        "WYO",
-                        "ORSU"
-                    ],
-                    "rivalryNames": {
-                    "ORSU": "Battle of the Gorge"
-                    },
-                    "prestige": "73",
-                    "hexColor": "#D64309"
-                },
-                {
-                    "name": "Oregon State Beavers",
-                    "state": "Oregon",
-                    "abbreviation": "ORSU",
-                    "offCoordinator": {
-                        "contractLength": "3",
-                        "startYear": "2022",
-                        "age": "55",
-                        "cumulativePrestige": "0",
-                        "homeState": "Massachusetts",
-                        "ratPot": "61",
-                        "hometown": "Newton Centre",
-                        "ratTalent": "49",
-                        "baselinePrestige": "70",
-                        "coachingAbility": "66",
-                        "name": "Brian Lindgren",
-                        "contractYear": "0"
-                    },
-                    "defCoordinator": {
-                        "contractLength": "3",
-                        "startYear": "2022",
-                        "age": "47",
-                        "cumulativePrestige": "0",
-                        "homeState": "American Samoa",
-                        "ratPot": "91",
-                        "hometown": "Letula",
-                        "ratTalent": "56",
-                        "baselinePrestige": "70",
-                        "coachingAbility": "64",
-                        "name": "Trent Bray",
-                        "contractYear": "0"
-                    },
-                    "headCoach": {
-                        "contractLength": "6",
-                        "startYear": "2022",
-                        "age": "46",
-                        "ratOff": "72",
-                        "cumulativePrestige": "0",
-                        "ratDef": "67",
-                        "homeState": "Nevada",
-                        "ratPot": "67",
-                        "hometown": "Fallon",
-                        "ratTalent": "64",
-                        "baselinePrestige": "70",
-                        "name": "Jonathan Smith",
-                        "contractYear": "0"
-                    },
-                    "rival": [
-                        "ORE",
-                        "BSU"
-                    ],
-                    "rivalryNames": {
-                        "ORE": "The Civil War"
-                        "BSU": "Battle of the Gorge"
-                    },
-                    "prestige": "77",
-                    "hexColor": "#DC4405"
-                },
-                {
-                    "name": "San Diego State Aztecs",
-                    "state": "California",
-                    "abbreviation": "SDSU",
-                    "rival": [
-                        "UNLV",
-                        "CAL"
-                    ],
-                    "rivalryNames": {},
-                    "prestige": "60",
-                    "hexColor": "#A6192E"
-                },
-                {
-                    "name": "Colorado State Rams",
-                    "state": "Colorado",
-                    "abbreviation": "CSU",
-                    "rival": [
-                        "CU",
-                        "WYO"
-                    ],
-                    "rivalryNames": {
-                    "CU": "Rocky Mountain Showdown"
-                    "WYO": "Stateline Standoff"
-                    },
-                    "prestige": "62",
-                    "hexColor": "#1E4D2B"
-                },
-                {
-                    "name": "Wyoming Cowboys",
-                    "state": "Wyoming",
-                    "abbreviation": "WYO",
-                    "rival": [
-                        "CSU"
-                    ],
-                    "rivalryNames": {
-                    "CSU": "Stateline Standoff"
-                    },
                     "prestige": "58",
-                    "hexColor": "#492F24"
-                }
+                    "hexColor": "#222222"
+                },
                 {
-                    "name": "UNLV Runnin' Rebels",
-                    "state": "Nevada",
-                    "abbreviation": "UNLV",
+                    "name": "Arkansas State",
+                    "state": "Arkansas",
+                    "abbreviation": "AKSU",
                     "rival": [
-                        "NEV",
-                        "SDSU",
-                        "SMU"
+                        "TSU"
                     ],
                     "rivalryNames": {},
-                    "prestige": "55",
-                    "hexColor": "#CF0A2C"
+                    "prestige": "50",
+                    "hexColor": "#CC092F"
                 },
                 {
-                    "name": "Cal Bears",
-                    "state": "California",
-                    "abbreviation": "CAL",
+                    "name": "Coastal Carolina",
+                    "state": "South Carolina",
+                    "abbreviation": "CCU",
                     "rival": [
-                        "STAN",
-                        "SDSU"
+                        "APP"
                     ],
-                    "rivalryNames": {
-                    "STAN": "The Big Game"
-                    },
-                    "prestige": "68",
-                    "hexColor": "#003262"
+                    "rivalryNames": {},
+                    "prestige": "70",
+                    "hexColor": "#006F71"
                 },
                 {
-                    "name": "Stanford Cardinal",
-                    "state": "California",
-                    "abbreviation": "STAN",
+                    "name": "Georgia Southern",
+                    "state": "Georgia",
+                    "abbreviation": "GSOU",
                     "rival": [
-                        "CAL",
-                        "SDSU"
+                        "GSU"
                     ],
-                    "rivalryNames": {
-                    "CAL": "The Big Game"
-                    },
-                    "prestige": "71",
-                    "hexColor": "#8C1515"
+                    "rivalryNames": {},
+                    "prestige": "43",
+                    "hexColor": "#011E41"
                 },
                 {
-                    "name": "Washington State Cougers",
-                    "state": "Washington",
-                    "abbreviation": "WSU",
-                    "offCoordinator": {
-                        "contractLength": "3",
-                        "startYear": "2022",
-                        "age": "54",
-                        "cumulativePrestige": "0",
-                        "homeState": "Massachusetts",
-                        "ratPot": "76",
-                        "hometown": "North Oxford",
-                        "ratTalent": "58",
-                        "baselinePrestige": "70",
-                        "coachingAbility": "64",
-                        "name": "Eric Morris",
-                        "contractYear": "0"
-                    },
-                    "defCoordinator": {
-                        "contractLength": "3",
-                        "startYear": "2022",
-                        "age": "53",
-                        "cumulativePrestige": "0",
-                        "homeState": "Alaska",
-                        "ratPot": "90",
-                        "hometown": "Kotzebue",
-                        "ratTalent": "76",
-                        "baselinePrestige": "70",
-                        "coachingAbility": "71",
-                        "name": "Brian Ward",
-                        "contractYear": "0"
-                    },
-                    "headCoach": {
-                        "contractLength": "6",
-                        "startYear": "2022",
-                        "age": "58",
-                        "ratOff": "76",
-                        "cumulativePrestige": "0",
-                        "ratDef": "58",
-                        "homeState": "California",
-                        "ratPot": "74",
-                        "hometown": "Big Bear",
-                        "ratTalent": "53",
-                        "baselinePrestige": "70",
-                        "name": "Jake Dickert",
-                        "contractYear": "0"
-                    },
+                    "name": "Georgia State",
+                    "state": "Georgia",
+                    "abbreviation": "GSU",
                     "rival": [
-                        "WASH"
+                        "GSOU"
                     ],
-                    "rivalryNames": {
-                        "WASH": "The Apple Cup"
-                    },
+                    "rivalryNames": {},
+                    "prestige": "48",
+                    "hexColor": "#0039A6"
+                },
+                {
+                    "name": "Louisiana",
+                    "state": "Louisiana",
+                    "abbreviation": "ULL",
+                    "rival": [
+                        "USM"
+                    ],
+                    "rivalryNames": {},
+                    "prestige": "52",
+                    "hexColor": "#CE181E"
+                },
+                {
+                    "name": "Texas State",
+                    "state": "Louisiana",
+                    "abbreviation": "TSU",
+                    "rival": [
+                        "AKSU"
+                    ],
+                    "rivalryNames": {},
+                    "prestige": "62",
+                    "hexColor": "#840029"
+                },
+                {
+                    "name": "South Alabama",
+                    "state": "Alabama",
+                    "abbreviation": "USA",
+                    "rival": [
+                        "TROY"
+                    ],
+                    "rivalryNames": {},
+                    "prestige": "58",
+                    "hexColor": "#00205B"
+                },
+                {
+                    "name": "James Madison",
+                    "state": "Virginia",
+                    "abbreviation": "JMU",
+                    "rival": [
+                        "ODU"
+                    ],
+                    "rivalryNames": {},
+                    "prestige": "65",
+                    "hexColor": "#450084"
+                },
+                {
+                    "name": "Troy",
+                    "state": "Alabama",
+                    "abbreviation": "TROY",
+                    "rival": [
+                        "USA"
+                    ],
+                    "rivalryNames": {},
                     "prestige": "72",
-                    "hexColor": "#981E32"
+                    "hexColor": "#8A2432"
                 }
             ]
         },
